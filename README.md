@@ -13,3 +13,6 @@ pip install -r requirements.txt
 2. Download the selenium driver matching with your chrome version and replace chromedriver.exe with that
 driver links:-
 https://chromedriver.storage.googleapis.com/index.html
+
+
+To execute the web app please run the app.py file
